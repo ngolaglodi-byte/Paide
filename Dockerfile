@@ -23,7 +23,6 @@ RUN npm ci --omit=dev
 COPY --from=builder /app/dist ./dist
 COPY server.cjs .
 COPY data ./data
-COPY public ./public
 
 EXPOSE 3000
 
