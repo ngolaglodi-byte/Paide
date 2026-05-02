@@ -1,0 +1,226 @@
+[2026-04-15T00:35:20.021Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"10.0.2.4"}
+[2026-04-15T00:35:35.426Z] LOGIN_FAILED: {"email":"admin@paide.cd","ip":"10.0.2.4"}
+[2026-04-15T01:06:02.954Z] LOGIN_FAILED: {"email":"admin@prestige-build.dev","ip":"10.0.2.4"}
+[2026-04-15T01:06:16.146Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur","device":"FP-ougdxb-mn"}
+[2026-04-15T01:07:10.324Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"10.0.2.4"}
+[2026-04-15T01:07:14.111Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"10.0.2.4"}
+[2026-04-15T01:07:24.529Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur","device":"FP-ougdxb-mn"}
+[2026-04-15T01:07:59.748Z] PASSWORD_RESET: {"targetEmail":"g.ngola@paide.cd","resetBy":"admin@paide.cd"}
+[2026-04-15T01:09:15.530Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur","device":"FP-ougdxb-mn"}
+[2026-04-15T01:09:52.768Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire","device":"FP-ougdxb-mn"}
+[2026-04-15T01:29:04.791Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.7","level":"national","post":"Secrétaire","device":"FP-ougdxb-mn"}
+[2026-04-15T01:35:38.085Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire","device":"FP-ougdxb-mn"}
+[2026-04-15T01:48:08.080Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.8","level":"national","post":"Secrétaire","device":"FP-ougdxb-mn"}
+[2026-04-15T01:59:38.748Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T02:01:30.063Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T02:04:05.113Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T02:04:41.906Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T02:04:42.311Z] LOGIN_FAILED: {"email":"ministre@paide.cd","ip":"10.0.2.4"}
+[2026-04-15T02:04:42.701Z] LOGIN_FAILED: {"email":"secretaire.ministre@paide.cd","ip":"10.0.2.4"}
+[2026-04-15T02:04:43.089Z] LOGIN_FAILED: {"email":"coord.national@paide.cd","ip":"10.0.2.4"}
+[2026-04-15T02:09:37.062Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.8","level":"national","post":"Secrétaire","device":"FP-ougdxb-mn"}
+[2026-04-15T02:12:15.924Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"10.0.2.4"}
+[2026-04-15T02:12:16.377Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"10.0.2.4"}
+[2026-04-15T02:12:16.822Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"10.0.2.4"}
+[2026-04-15T02:12:17.286Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"10.0.2.4"}
+[2026-04-15T02:12:38.209Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T02:14:05.262Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire"}
+[2026-04-15T02:14:30.800Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire"}
+[2026-04-15T02:14:40.939Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire"}
+[2026-04-15T02:14:53.424Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire"}
+[2026-04-15T02:23:01.839Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire"}
+[2026-04-15T02:29:26.286Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire"}
+[2026-04-15T02:29:43.525Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire"}
+[2026-04-15T02:30:27.242Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"10.0.2.8"}
+[2026-04-15T02:30:37.094Z] LOGIN_FAILED: {"email":"admin@paide.cd","ip":"10.0.2.8"}
+[2026-04-15T02:30:45.541Z] LOGIN_FAILED: {"email":"admin@paide.cd","ip":"10.0.2.8"}
+[2026-04-15T02:32:46.776Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T02:32:47.301Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire"}
+[2026-04-15T02:32:47.822Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"10.0.2.4","level":"national","post":"Chargé de Plan"}
+[2026-04-15T02:33:33.893Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"10.0.2.8"}
+[2026-04-15T02:34:07.053Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.8","level":"superadmin","post":"Super Administrateur","device":"FP-ougdxb-mn"}
+[2026-04-15T02:35:06.671Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.8","level":"national","post":"Secrétaire","device":"FP-ougdxb-mn"}
+[2026-04-15T02:37:03.836Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"10.0.2.8","level":"national","post":"Chargé de Plan","device":"FP-ougdxb-mn"}
+[2026-04-15T02:40:50.745Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire"}
+[2026-04-15T02:42:25.147Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"10.0.2.8","level":"national","post":"Chargé de Plan","device":"FP-ougdxb-mn"}
+[2026-04-15T02:43:36.693Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"10.0.2.8","level":"national","post":"Chargé de Plan","device":"FP-ougdxb-mn"}
+[2026-04-15T02:44:31.362Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.8","level":"national","post":"Secrétaire"}
+[2026-04-15T02:50:15.353Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"10.0.2.8","level":"national","post":"Chargé de Plan","device":"FP-ougdxb-mn"}
+[2026-04-15T02:57:51.772Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"127.0.0.1","level":"national","post":"Secrétaire"}
+[2026-04-15T02:58:33.306Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.8","level":"national","post":"Secrétaire","device":"FP-ougdxb-mn"}
+[2026-04-15T02:59:31.335Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"10.0.2.8","level":"national","post":"Chargé de Plan","device":"FP-ougdxb-mn"}
+[2026-04-15T02:59:49.163Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.8","level":"national","post":"Secrétaire","device":"FP-ougdxb-mn"}
+[2026-04-15T03:01:04.494Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"10.0.2.4","level":"national","post":"Chargé de Plan"}
+[2026-04-15T03:03:31.997Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T03:03:38.758Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire"}
+[2026-04-15T03:03:45.465Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"10.0.2.4","level":"national","post":"Chargé de Plan"}
+[2026-04-15T03:05:35.407Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T03:05:42.360Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"10.0.2.8","level":"national","post":"Chargé de Plan","device":"FP-ougdxb-mn"}
+[2026-04-15T03:05:43.711Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire"}
+[2026-04-15T03:05:51.915Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"10.0.2.4","level":"national","post":"Chargé de Plan"}
+[2026-04-15T03:07:55.647Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T03:08:03.966Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire"}
+[2026-04-15T03:08:12.161Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"10.0.2.4","level":"national","post":"Chargé de Plan"}
+[2026-04-15T03:10:40.686Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T03:10:48.911Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire"}
+[2026-04-15T03:10:57.059Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"10.0.2.4","level":"national","post":"Chargé de Plan"}
+[2026-04-15T03:14:41.710Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T03:14:48.992Z] LOGIN_SUCCESS: {"email":"j.mutombo@paide.cd","ip":"10.0.2.4","level":"ministere","post":"Ministre"}
+[2026-04-15T03:14:56.210Z] LOGIN_SUCCESS: {"email":"s.kalanga@paide.cd","ip":"10.0.2.4","level":"ministere","post":"Secrétaire"}
+[2026-04-15T03:15:03.502Z] LOGIN_SUCCESS: {"email":"p.mwamba@paide.cd","ip":"10.0.2.4","level":"national","post":"Coordinateur National"}
+[2026-04-15T03:15:10.775Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire"}
+[2026-04-15T03:15:17.933Z] LOGIN_BLOCKED: {"email":"g.kabongo@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:15:18.429Z] LOGIN_BLOCKED: {"email":"m.lukusa@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:15:18.917Z] LOGIN_BLOCKED: {"email":"p.tshimanga@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:15:19.384Z] LOGIN_BLOCKED: {"email":"j.kabila@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:15:19.865Z] LOGIN_BLOCKED: {"email":"a.mutinga@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:15:20.333Z] LOGIN_BLOCKED: {"email":"d.ilunga@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:15:20.787Z] LOGIN_BLOCKED: {"email":"s.kasongo@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:15:21.259Z] LOGIN_BLOCKED: {"email":"a.banza@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:16:43.195Z] LOGIN_BLOCKED: {"email":"g.kabongo@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:16:44.684Z] LOGIN_BLOCKED: {"email":"m.lukusa@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:16:46.884Z] LOGIN_BLOCKED: {"email":"p.tshimanga@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:16:48.363Z] LOGIN_BLOCKED: {"email":"j.kabila@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:16:49.837Z] LOGIN_BLOCKED: {"email":"a.mutinga@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:16:51.318Z] LOGIN_BLOCKED: {"email":"d.ilunga@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:16:52.822Z] LOGIN_BLOCKED: {"email":"s.kasongo@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:16:54.316Z] LOGIN_BLOCKED: {"email":"a.banza@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:17:12.816Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"127.0.0.1","level":"national","post":"Chargé de Plan"}
+[2026-04-15T03:17:12.894Z] LOGIN_SUCCESS: {"email":"m.lukusa@paide.cd","ip":"127.0.0.1","level":"national","post":"Chargé de Formation"}
+[2026-04-15T03:17:12.973Z] LOGIN_SUCCESS: {"email":"p.tshimanga@paide.cd","ip":"127.0.0.1","level":"national","post":"Chargé de Suivi"}
+[2026-04-15T03:17:13.052Z] LOGIN_SUCCESS: {"email":"j.kabila@paide.cd","ip":"127.0.0.1","level":"provincial","post":"Coordinateur Provincial"}
+[2026-04-15T03:17:13.140Z] LOGIN_SUCCESS: {"email":"a.mutinga@paide.cd","ip":"127.0.0.1","level":"provincial","post":"Secrétaire"}
+[2026-04-15T03:17:13.180Z] LOGIN_BLOCKED: {"email":"d.ilunga@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T03:17:13.219Z] LOGIN_BLOCKED: {"email":"s.kasongo@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T03:17:13.262Z] LOGIN_BLOCKED: {"email":"a.banza@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T03:19:06.468Z] LOGIN_BLOCKED: {"email":"d.ilunga@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T03:19:06.511Z] LOGIN_BLOCKED: {"email":"s.kasongo@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T03:19:06.548Z] LOGIN_BLOCKED: {"email":"a.banza@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T03:19:37.564Z] LOGIN_SUCCESS: {"email":"d.ilunga@paide.cd","ip":"127.0.0.1","level":"provincial","post":"Coordinateur Provincial"}
+[2026-04-15T03:20:11.746Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"10.0.2.4","level":"national","post":"Chargé de Plan"}
+[2026-04-15T03:20:21.004Z] LOGIN_SUCCESS: {"email":"m.lukusa@paide.cd","ip":"10.0.2.4","level":"national","post":"Chargé de Formation"}
+[2026-04-15T03:20:30.280Z] LOGIN_SUCCESS: {"email":"p.tshimanga@paide.cd","ip":"10.0.2.4","level":"national","post":"Chargé de Suivi"}
+[2026-04-15T03:20:39.568Z] LOGIN_SUCCESS: {"email":"j.kabila@paide.cd","ip":"10.0.2.4","level":"provincial","post":"Coordinateur Provincial"}
+[2026-04-15T03:20:48.862Z] LOGIN_SUCCESS: {"email":"a.mutinga@paide.cd","ip":"10.0.2.4","level":"provincial","post":"Secrétaire"}
+[2026-04-15T03:20:58.238Z] LOGIN_BLOCKED: {"email":"d.ilunga@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:21:00.720Z] LOGIN_BLOCKED: {"email":"s.kasongo@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:21:03.198Z] LOGIN_BLOCKED: {"email":"a.banza@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:24:19.912Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T03:24:30.233Z] LOGIN_SUCCESS: {"email":"j.mutombo@paide.cd","ip":"10.0.2.4","level":"ministere","post":"Ministre"}
+[2026-04-15T03:24:40.384Z] LOGIN_SUCCESS: {"email":"s.kalanga@paide.cd","ip":"10.0.2.4","level":"ministere","post":"Secrétaire"}
+[2026-04-15T03:24:50.609Z] LOGIN_SUCCESS: {"email":"p.mwamba@paide.cd","ip":"10.0.2.4","level":"national","post":"Coordinateur National"}
+[2026-04-15T03:25:00.884Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire"}
+[2026-04-15T03:25:11.063Z] LOGIN_BLOCKED: {"email":"g.kabongo@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:25:13.071Z] LOGIN_BLOCKED: {"email":"m.lukusa@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:28:16.978Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T03:28:26.652Z] LOGIN_SUCCESS: {"email":"j.mutombo@paide.cd","ip":"10.0.2.4","level":"ministere","post":"Ministre"}
+[2026-04-15T03:28:36.332Z] LOGIN_SUCCESS: {"email":"s.kalanga@paide.cd","ip":"10.0.2.4","level":"ministere","post":"Secrétaire"}
+[2026-04-15T03:28:46.115Z] LOGIN_SUCCESS: {"email":"p.mwamba@paide.cd","ip":"10.0.2.4","level":"national","post":"Coordinateur National"}
+[2026-04-15T03:28:55.948Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire"}
+[2026-04-15T03:29:05.505Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"127.0.0.1","level":"national","post":"Chargé de Plan"}
+[2026-04-15T03:29:05.585Z] LOGIN_SUCCESS: {"email":"m.lukusa@paide.cd","ip":"127.0.0.1","level":"national","post":"Chargé de Formation"}
+[2026-04-15T03:29:05.665Z] LOGIN_SUCCESS: {"email":"p.tshimanga@paide.cd","ip":"127.0.0.1","level":"national","post":"Chargé de Suivi"}
+[2026-04-15T03:29:05.747Z] LOGIN_SUCCESS: {"email":"j.kabila@paide.cd","ip":"127.0.0.1","level":"provincial","post":"Coordinateur Provincial"}
+[2026-04-15T03:29:05.828Z] LOGIN_SUCCESS: {"email":"a.mutinga@paide.cd","ip":"127.0.0.1","level":"provincial","post":"Secrétaire"}
+[2026-04-15T03:29:05.852Z] LOGIN_BLOCKED: {"email":"d.ilunga@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T03:29:05.895Z] LOGIN_BLOCKED: {"email":"s.kasongo@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T03:29:05.928Z] LOGIN_BLOCKED: {"email":"a.banza@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T03:30:24.835Z] LOGIN_BLOCKED: {"email":"d.ilunga@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T03:30:26.870Z] LOGIN_BLOCKED: {"email":"s.kasongo@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T03:30:28.915Z] LOGIN_BLOCKED: {"email":"a.banza@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T03:30:37.611Z] LOGIN_BLOCKED: {"email":"d.ilunga@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T03:31:14.999Z] LOGIN_SUCCESS: {"email":"d.ilunga@paide.cd","ip":"127.0.0.1","level":"provincial","post":"Coordinateur Provincial"}
+[2026-04-15T03:31:18.078Z] LOGIN_SUCCESS: {"email":"s.kasongo@paide.cd","ip":"127.0.0.1","level":"sous_provincial","post":"Coordinateur Sous-Provincial"}
+[2026-04-15T03:31:21.167Z] LOGIN_SUCCESS: {"email":"a.banza@paide.cd","ip":"127.0.0.1","level":"centre","post":"Chef de Centre"}
+[2026-04-15T03:39:06.040Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire"}
+[2026-04-15T03:39:09.038Z] LOGIN_SUCCESS: {"email":"j.mutombo@paide.cd","ip":"10.0.2.4","level":"ministere","post":"Ministre"}
+[2026-04-15T03:39:12.071Z] LOGIN_SUCCESS: {"email":"j.kabila@paide.cd","ip":"10.0.2.4","level":"provincial","post":"Coordinateur Provincial"}
+[2026-04-15T03:40:10.565Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire"}
+[2026-04-15T03:40:13.613Z] LOGIN_SUCCESS: {"email":"j.mutombo@paide.cd","ip":"10.0.2.4","level":"ministere","post":"Ministre"}
+[2026-04-15T03:40:16.677Z] LOGIN_SUCCESS: {"email":"j.kabila@paide.cd","ip":"10.0.2.4","level":"provincial","post":"Coordinateur Provincial"}
+[2026-04-15T03:52:16.853Z] LOGIN_SUCCESS: {"email":"j.mutombo@paide.cd","ip":"10.0.2.4","level":"ministere","post":"Ministre"}
+[2026-04-15T03:52:19.353Z] LOGIN_SUCCESS: {"email":"s.kalanga@paide.cd","ip":"10.0.2.4","level":"ministere","post":"Secrétaire"}
+[2026-04-15T03:52:21.866Z] LOGIN_SUCCESS: {"email":"p.mwamba@paide.cd","ip":"10.0.2.4","level":"national","post":"Coordinateur National"}
+[2026-04-15T03:52:24.404Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"national","post":"Secrétaire"}
+[2026-04-15T03:52:26.952Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"10.0.2.4","level":"national","post":"Chargé de Plan"}
+[2026-04-15T03:52:29.420Z] LOGIN_BLOCKED: {"email":"j.kabila@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:52:31.441Z] LOGIN_BLOCKED: {"email":"a.mutinga@paide.cd","ip":"10.0.2.4","reason":"rate_limit"}
+[2026-04-15T03:59:21.976Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"10.0.2.4","level":"national","post":"Chargé de Plan"}
+[2026-04-15T04:02:46.973Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"127.0.0.1","level":"national","post":"Chargé de Plan"}
+[2026-04-15T04:19:48.001Z] LOGIN_SUCCESS: {"email":"j.mutombo@paide.cd","ip":"127.0.0.1","level":"ministere","post":"Ministre"}
+[2026-04-15T04:19:50.119Z] LOGIN_SUCCESS: {"email":"p.mwamba@paide.cd","ip":"127.0.0.1","level":"national","post":"Coordinateur National"}
+[2026-04-15T04:20:07.531Z] LOGIN_SUCCESS: {"email":"j.mutombo@paide.cd","ip":"127.0.0.1","level":"ministere","post":"Ministre"}
+[2026-04-15T04:20:08.644Z] LOGIN_SUCCESS: {"email":"p.mwamba@paide.cd","ip":"127.0.0.1","level":"national","post":"Coordinateur National"}
+[2026-04-15T04:21:58.415Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"127.0.0.1","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T04:21:59.508Z] LOGIN_SUCCESS: {"email":"j.mutombo@paide.cd","ip":"127.0.0.1","level":"ministere","post":"Ministre"}
+[2026-04-15T04:22:00.598Z] LOGIN_SUCCESS: {"email":"s.kalanga@paide.cd","ip":"127.0.0.1","level":"ministere","post":"Secrétaire"}
+[2026-04-15T04:22:01.683Z] LOGIN_SUCCESS: {"email":"p.mwamba@paide.cd","ip":"127.0.0.1","level":"national","post":"Coordinateur National"}
+[2026-04-15T04:22:02.767Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"127.0.0.1","level":"national","post":"Secrétaire"}
+[2026-04-15T04:22:03.808Z] LOGIN_BLOCKED: {"email":"g.kabongo@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:22:04.846Z] LOGIN_BLOCKED: {"email":"m.lukusa@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:22:05.897Z] LOGIN_BLOCKED: {"email":"p.tshimanga@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:22:06.941Z] LOGIN_BLOCKED: {"email":"j.kabila@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:22:07.986Z] LOGIN_BLOCKED: {"email":"a.mutinga@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:22:09.026Z] LOGIN_BLOCKED: {"email":"d.ilunga@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:22:10.067Z] LOGIN_BLOCKED: {"email":"s.kasongo@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:22:11.102Z] LOGIN_BLOCKED: {"email":"a.banza@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:23:46.013Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"127.0.0.1","level":"national","post":"Chargé de Plan"}
+[2026-04-15T04:23:48.099Z] LOGIN_SUCCESS: {"email":"m.lukusa@paide.cd","ip":"127.0.0.1","level":"national","post":"Chargé de Formation"}
+[2026-04-15T04:23:50.184Z] LOGIN_SUCCESS: {"email":"p.tshimanga@paide.cd","ip":"127.0.0.1","level":"national","post":"Chargé de Suivi"}
+[2026-04-15T04:23:52.264Z] LOGIN_SUCCESS: {"email":"j.kabila@paide.cd","ip":"127.0.0.1","level":"provincial","post":"Coordinateur Provincial"}
+[2026-04-15T04:23:54.356Z] LOGIN_SUCCESS: {"email":"a.mutinga@paide.cd","ip":"127.0.0.1","level":"provincial","post":"Secrétaire"}
+[2026-04-15T04:25:32.170Z] LOGIN_SUCCESS: {"email":"d.ilunga@paide.cd","ip":"127.0.0.1","level":"provincial","post":"Coordinateur Provincial"}
+[2026-04-15T04:25:34.257Z] LOGIN_SUCCESS: {"email":"s.kasongo@paide.cd","ip":"127.0.0.1","level":"sous_provincial","post":"Coordinateur Sous-Provincial"}
+[2026-04-15T04:25:36.334Z] LOGIN_SUCCESS: {"email":"a.banza@paide.cd","ip":"127.0.0.1","level":"centre","post":"Chef de Centre"}
+[2026-04-15T04:25:52.781Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"127.0.0.1","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T04:25:55.473Z] LOGIN_SUCCESS: {"email":"j.mutombo@paide.cd","ip":"127.0.0.1","level":"ministere","post":"Ministre"}
+[2026-04-15T04:25:58.170Z] LOGIN_BLOCKED: {"email":"s.kalanga@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:26:00.208Z] LOGIN_BLOCKED: {"email":"p.mwamba@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:26:02.247Z] LOGIN_BLOCKED: {"email":"g.ngola@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:26:48.164Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"127.0.0.1","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T04:26:52.900Z] LOGIN_SUCCESS: {"email":"j.mutombo@paide.cd","ip":"127.0.0.1","level":"ministere","post":"Ministre"}
+[2026-04-15T04:26:57.626Z] LOGIN_SUCCESS: {"email":"s.kalanga@paide.cd","ip":"127.0.0.1","level":"ministere","post":"Secrétaire"}
+[2026-04-15T04:27:02.361Z] LOGIN_SUCCESS: {"email":"p.mwamba@paide.cd","ip":"127.0.0.1","level":"national","post":"Coordinateur National"}
+[2026-04-15T04:27:07.106Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"127.0.0.1","level":"national","post":"Secrétaire"}
+[2026-04-15T04:27:11.813Z] LOGIN_BLOCKED: {"email":"g.kabongo@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:27:15.852Z] LOGIN_BLOCKED: {"email":"m.lukusa@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:27:19.908Z] LOGIN_BLOCKED: {"email":"p.tshimanga@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:27:23.949Z] LOGIN_BLOCKED: {"email":"j.kabila@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:27:27.991Z] LOGIN_BLOCKED: {"email":"a.mutinga@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:27:32.030Z] LOGIN_BLOCKED: {"email":"d.ilunga@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:27:36.069Z] LOGIN_BLOCKED: {"email":"s.kasongo@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:27:40.111Z] LOGIN_BLOCKED: {"email":"a.banza@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:29:06.345Z] LOGIN_BLOCKED: {"email":"g.kabongo@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:29:09.381Z] LOGIN_BLOCKED: {"email":"m.lukusa@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:29:12.426Z] LOGIN_BLOCKED: {"email":"p.tshimanga@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:29:15.460Z] LOGIN_BLOCKED: {"email":"j.kabila@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:29:18.496Z] LOGIN_BLOCKED: {"email":"a.mutinga@paide.cd","ip":"127.0.0.1","reason":"rate_limit"}
+[2026-04-15T04:30:05.111Z] LOGIN_SUCCESS: {"email":"g.kabongo@paide.cd","ip":"127.0.0.1","level":"national","post":"Chargé de Plan"}
+[2026-04-15T04:30:13.829Z] LOGIN_SUCCESS: {"email":"j.kabila@paide.cd","ip":"127.0.0.1","level":"provincial","post":"Coordinateur Provincial"}
+[2026-04-15T04:30:22.565Z] LOGIN_SUCCESS: {"email":"a.banza@paide.cd","ip":"127.0.0.1","level":"centre","post":"Chef de Centre"}
+[2026-04-15T04:30:31.298Z] LOGIN_SUCCESS: {"email":"s.kasongo@paide.cd","ip":"127.0.0.1","level":"sous_provincial","post":"Coordinateur Sous-Provincial"}
+[2026-04-15T04:32:38.022Z] LOGIN_SUCCESS: {"email":"j.kabila@paide.cd","ip":"127.0.0.1","level":"provincial","post":"Coordinateur Provincial"}
+[2026-04-15T04:32:43.261Z] LOGIN_SUCCESS: {"email":"p.mwamba@paide.cd","ip":"127.0.0.1","level":"national","post":"Coordinateur National"}
+[2026-04-15T04:32:48.380Z] LOGIN_SUCCESS: {"email":"j.mutombo@paide.cd","ip":"127.0.0.1","level":"ministere","post":"Ministre"}
+[2026-04-15T04:32:53.527Z] LOGIN_SUCCESS: {"email":"a.banza@paide.cd","ip":"127.0.0.1","level":"centre","post":"Chef de Centre"}
+[2026-04-15T04:59:40.075Z] LOGIN_FAILED: {"email":"g.kabongo@paide.cd","ip":"10.0.2.8"}
+[2026-04-15T04:59:54.453Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.8","level":"superadmin","post":"Super Administrateur","device":"FP-ougdxb-mn"}
+[2026-04-15T04:59:54.496Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"127.0.0.1","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T05:00:45.228Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.8","level":"superadmin","post":"Super Administrateur","device":"FP-ougdxb-mn"}
+[2026-04-15T05:03:02.186Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"127.0.0.1","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T05:04:44.031Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"127.0.0.1","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T05:07:34.051Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"127.0.0.1","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T05:13:08.550Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"127.0.0.1","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T05:13:39.526Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.8","level":"superadmin","post":"Super Administrateur","device":"FP-ougdxb-mn"}
+[2026-04-15T05:15:27.382Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"127.0.0.1","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T05:17:07.301Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.8","level":"superadmin","post":"Super Administrateur","device":"FP-ougdxb-mn"}
+[2026-04-15T05:21:33.121Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.8","level":"superadmin","post":"Super Administrateur","device":"FP-ougdxb-mn"}
+[2026-04-15T05:26:49.788Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T05:27:06.811Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T05:30:13.353Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"127.0.0.1","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T05:30:28.943Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T05:32:21.145Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.8","level":"superadmin","post":"Super Administrateur","device":"FP-ougdxb-mn"}
+[2026-04-15T05:34:09.927Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"127.0.0.1","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T05:34:35.072Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur"}
+[2026-04-15T11:09:23.059Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur","device":"FP-wr8oiz-mn"}
+[2026-04-15T15:55:15.096Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur","device":"FP-wr8oiz-mn"}

@@ -1,0 +1,3 @@
+[2026-05-02T01:33:48.109Z] LOGIN_FAILED: {"email":"admin@prestige-build.dev","ip":"10.0.2.7"}
+[2026-05-02T01:33:49.375Z] LOGIN_FAILED: {"email":"admin@prestige-build.dev","ip":"10.0.2.7"}
+[2026-05-02T01:34:11.898Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.7","level":"superadmin","post":"Super Administrateur","device":"DEV-0lxw6rc"}

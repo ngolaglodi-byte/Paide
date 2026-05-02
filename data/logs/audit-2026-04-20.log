@@ -1,0 +1,8 @@
+[2026-04-20T15:42:13.333Z] LOGIN_FAILED: {"email":"d.dido3@paide.cd","ip":"10.0.2.4"}
+[2026-04-20T15:42:34.525Z] LOGIN_FAILED: {"email":"d.dido3@paide.cd","ip":"10.0.2.4"}
+[2026-04-20T15:42:49.025Z] LOGIN_FAILED: {"email":"d.dido3@paide.cd","ip":"10.0.2.4"}
+[2026-04-20T15:43:24.041Z] LOGIN_FAILED: {"email":"d.dido2@paide.cd","ip":"10.0.2.4"}
+[2026-04-20T15:44:15.475Z] LOGIN_FAILED: {"email":"d.dido2@paide.cd","ip":"10.0.2.4"}
+[2026-04-20T15:44:59.253Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur","device":"DEV-15dfku0"}
+[2026-04-20T15:47:27.963Z] USER_CREATED: {"email":"d.dido@paide.cd","post":"Secrétaire","level":"centre","createdBy":"admin@paide.cd"}
+[2026-04-20T15:49:13.073Z] LOGIN_SUCCESS: {"email":"d.dido@paide.cd","ip":"10.0.2.4","level":"centre","post":"Secrétaire","device":"DEV-15dfku0"}

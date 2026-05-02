@@ -1,0 +1,14 @@
+[2026-04-14T20:01:44.267Z] LOGIN_FAILED: {"email":"fake@test.cd","ip":"10.0.2.1"}
+[2026-04-14T20:01:44.270Z] LOGIN_FAILED: {"email":"fake@test.cd","ip":"10.0.2.1"}
+[2026-04-14T20:01:44.272Z] LOGIN_FAILED: {"email":"fake@test.cd","ip":"10.0.2.1"}
+[2026-04-14T20:01:44.275Z] LOGIN_FAILED: {"email":"fake@test.cd","ip":"10.0.2.1"}
+[2026-04-14T20:01:44.278Z] LOGIN_FAILED: {"email":"fake@test.cd","ip":"10.0.2.1"}
+[2026-04-14T20:01:44.280Z] LOGIN_BLOCKED: {"email":"fake@test.cd","ip":"10.0.2.1","reason":"rate_limit"}
+[2026-04-14T20:01:44.350Z] LOGIN_BLOCKED: {"email":"admin@paide.cd","ip":"10.0.2.1","reason":"rate_limit"}
+[2026-04-14T20:07:39.634Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.5","level":"superadmin","post":"Super Administrateur","device":"FP-ougdxb-mn"}
+[2026-04-14T20:08:46.949Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.1","level":"superadmin","post":"Super Administrateur"}
+[2026-04-14T20:09:59.651Z] LOGIN_FAILED: {"email":"admin@paide.cd OR 1=1","ip":"10.0.2.1"}
+[2026-04-14T20:13:31.517Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.1","level":"superadmin","post":"Super Administrateur"}
+[2026-04-14T20:18:33.357Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"10.0.2.5"}
+[2026-04-14T20:18:39.275Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"10.0.2.5"}
+[2026-04-14T23:55:29.453Z] LOGIN_FAILED: {"email":"test@test.com","ip":"10.0.2.4"}

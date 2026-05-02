@@ -1,0 +1,294 @@
+/* === THÈME OFFICIEL PAIDE - INSPIRÉ DE STATE.GOV === */
+
+:root {
+  --primary: #4A90E2; /* Bleu ciel officiel */
+  --secondary: #fbbf24; /* Or/Jaune doré */
+  --dark: #1f2937; /* Gris foncé pour les textes */
+  --light: #f9fafb; /* Gris très clair pour les backgrounds */
+  --danger: #dc2626;
+  --warning: #f59e0b;
+  --success: #10b981;
+  --info: #3b82f6;
+  
+  --border-radius: 0.375rem;
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+/* === COULEURS OFFICIELLES === */
+.text-primary { color: var(--primary); }
+.text-secondary { color: var(--secondary); }
+.text-dark { color: var(--dark); }
+.text-danger { color: var(--danger); }
+.text-warning { color: var(--warning); }
+.text-success { color: var(--success); }
+.text-info { color: var(--info); }
+
+.bg-primary { background-color: var(--primary); }
+.bg-secondary { background-color: var(--secondary); }
+.bg-dark { background-color: var(--dark); }
+.bg-light { background-color: var(--light); }
+.bg-danger { background-color: var(--danger); }
+.bg-warning { background-color: var(--warning); }
+.bg-success { background-color: var(--success); }
+.bg-info { background-color: var(--info); }
+
+/* === HERO SECTION STYLE STATE.GOV === */
+.hero-section {
+  background: linear-gradient(135deg, var(--primary) 0%, #3B7DD8 50%, #5BA0E8 100%);
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-section::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.1'%3E%3Ccircle cx='7' cy='7' r='1'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E") repeat;
+  opacity: 0.5;
+}
+
+.hero-overlay {
+  background: rgba(30, 64, 175, 0.1);
+  backdrop-filter: blur(1px);
+}
+
+/* === BOUTONS OFFICIELS === */
+.btn-primary-official {
+  background-color: var(--primary);
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--border-radius);
+  font-weight: 600;
+  transition: all 0.2s ease;
+  box-shadow: var(--shadow-sm);
+}
+
+.btn-primary-official:hover {
+  background-color: #3B7DD8;
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+.btn-secondary-official {
+  background-color: var(--secondary);
+  color: var(--dark);
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--border-radius);
+  font-weight: 600;
+  transition: all 0.2s ease;
+  box-shadow: var(--shadow-sm);
+}
+
+.btn-secondary-official:hover {
+  background-color: #f59e0b;
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+  color: var(--dark);
+}
+
+/* === CARDS OFFICIELLES === */
+.card-official {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-sm);
+  transition: all 0.2s ease;
+}
+
+.card-official:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+/* === BADGES OFFICIELS === */
+.badge-primary-official {
+  background-color: rgba(30, 64, 175, 0.1);
+  color: var(--primary);
+  border: 1px solid rgba(30, 64, 175, 0.2);
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+/* === SECTIONS SPÉCIALES === */
+.section-stats {
+  background: linear-gradient(to bottom, var(--light), white);
+  padding: 4rem 0;
+}
+
+.stat-card {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: var(--border-radius);
+  padding: 2rem;
+  text-align: center;
+  box-shadow: var(--shadow-sm);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.stat-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: var(--primary);
+  transform: scaleX(0);
+  transition: transform 0.3s ease;
+}
+
+.stat-card:hover::before {
+  transform: scaleX(1);
+}
+
+.stat-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+}
+
+.stat-number {
+  font-size: 3rem;
+  font-weight: bold;
+  color: var(--primary);
+  margin-bottom: 0.5rem;
+  line-height: 1;
+}
+
+.stat-label {
+  color: var(--dark);
+  font-weight: 500;
+  opacity: 0.8;
+}
+
+/* === CAROUSEL PAIDE === */
+.carousel-paide {
+  border-radius: var(--border-radius);
+  overflow: hidden;
+  box-shadow: var(--shadow-lg);
+}
+
+.carousel-caption-custom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(transparent, rgba(0,0,0,0.7));
+  padding: 2rem 1.5rem 1.5rem;
+}
+
+/* === ANIMATIONS === */
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.6s ease-out;
+}
+
+/* === RESPONSIVE === */
+@media (max-width: 768px) {
+  .hero-section {
+    padding: 2rem 0;
+  }
+  
+  .stat-number {
+    font-size: 2rem;
+  }
+  
+  .section-stats {
+    padding: 2rem 0;
+  }
+}
+
+/* === STATES FOCUS ET HOVER === */
+.card-official:focus-within {
+  ring: 2px solid var(--primary);
+  ring-opacity: 0.5;
+}
+
+button:focus-visible,
+a:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
+/* === TYPOGRAPHY === */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--dark);
+  font-weight: 700;
+}
+
+.hero-title {
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  line-height: 1.1;
+  font-weight: 800;
+}
+
+/* === UTILS === */
+.text-balance {
+  text-wrap: balance;
+}
+
+.shadow-custom {
+  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+}
+
+/* === SCROLLBAR CUSTOM === */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--light);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--primary);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3B7DD8;
+}
+/* === NAVIGATION OFFICIELLE (restaurée) === */
+.nav-primary {
+  background: linear-gradient(135deg, var(--primary) 0%, #3B7DD8 100%);
+  color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.nav-primary .nav-link {
+  color: rgba(255, 255, 255, 0.9);
+  transition: all 0.2s ease;
+  text-decoration: none;
+}
+
+.nav-primary .nav-link:hover {
+  color: var(--secondary);
+  transform: translateY(-1px);
+}
+
+/* === FOOTER OFFICIEL (restauré) === */
+.footer-official {
+  background: var(--dark);
+  color: rgba(255, 255, 255, 0.8);
+  padding: 3rem 0 1.5rem;
+}

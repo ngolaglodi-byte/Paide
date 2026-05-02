@@ -1,0 +1,46 @@
+[2026-04-16T15:10:08.181Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"127.0.0.1","level":"superadmin","post":"Super Administrateur"}
+[2026-04-16T15:24:10.330Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.7","level":"superadmin","post":"Super Administrateur","device":"FP-ougdxb-mn"}
+[2026-04-16T15:25:21.778Z] USER_CREATED: {"email":"g.ngola@paide.cd","post":"Secrétaire","level":"centre","createdBy":"admin@paide.cd"}
+[2026-04-16T15:26:03.283Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.7","level":"centre","post":"Secrétaire","device":"FP-ougdxb-mn"}
+[2026-04-16T15:31:24.823Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"127.0.0.1","level":"centre","post":"Secrétaire"}
+[2026-04-16T15:31:46.496Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"127.0.0.1","level":"centre","post":"Secrétaire"}
+[2026-04-16T15:32:25.249Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"centre","post":"Secrétaire"}
+[2026-04-16T15:37:20.942Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"10.0.2.4"}
+[2026-04-16T15:37:30.182Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.4","level":"superadmin","post":"Super Administrateur","device":"FP-ougdxb-mn"}
+[2026-04-16T15:37:42.060Z] PASSWORD_RESET: {"targetEmail":"g.ngola@paide.cd","resetBy":"admin@paide.cd"}
+[2026-04-16T15:38:59.313Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.7","level":"superadmin","post":"Super Administrateur","device":"FP-ougdxb-mn"}
+[2026-04-16T15:39:13.834Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.4","level":"centre","post":"Secrétaire","device":"FP-ougdxb-mn"}
+[2026-04-16T15:41:46.035Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"127.0.0.1"}
+[2026-04-16T15:41:57.094Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"127.0.0.1"}
+[2026-04-16T15:42:05.758Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"127.0.0.1"}
+[2026-04-16T15:42:18.962Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"127.0.0.1","level":"centre","post":"Secrétaire"}
+[2026-04-16T15:42:45.373Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"127.0.0.1","level":"centre","post":"Secrétaire"}
+[2026-04-16T15:43:34.149Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"127.0.0.1","level":"centre","post":"Secrétaire"}
+[2026-04-16T15:47:08.318Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"10.0.2.7"}
+[2026-04-16T15:47:20.737Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.7","level":"centre","post":"Secrétaire","device":"FP-ougdxb-mn"}
+[2026-04-16T15:52:37.492Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"10.0.2.7"}
+[2026-04-16T15:52:50.713Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.7","level":"centre","post":"Secrétaire","device":"FP-ougdxb-mn"}
+[2026-04-16T15:54:30.591Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"127.0.0.1","level":"superadmin","post":"Super Administrateur"}
+[2026-04-16T15:55:27.232Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"127.0.0.1"}
+[2026-04-16T15:56:01.870Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"127.0.0.1"}
+[2026-04-16T15:56:39.781Z] LOGIN_FAILED: {"email":"g.ngola@paide.cd","ip":"127.0.0.1"}
+[2026-04-16T15:56:55.949Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"127.0.0.1","level":"centre","post":"Secrétaire"}
+[2026-04-16T15:58:24.073Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.7","level":"centre","post":"Secrétaire","device":"FP-ougdxb-mn"}
+[2026-04-16T15:59:26.219Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"127.0.0.1","level":"centre","post":"Secrétaire"}
+[2026-04-16T16:00:34.554Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.7","level":"centre","post":"Secrétaire","device":"FP-ougdxb-mn"}
+[2026-04-16T16:27:09.256Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.7","level":"centre","post":"Secrétaire","device":"FP-ougdxb-mn"}
+[2026-04-16T17:47:39.713Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.7","level":"centre","post":"Secrétaire","device":"FP-ougdxb-mn"}
+[2026-04-16T18:05:16.479Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.1","level":"superadmin","post":"Super Administrateur"}
+[2026-04-16T18:05:16.500Z] LOGIN_FAILED: {"email":"secretaire.ministre@paide.cd","ip":"10.0.2.1"}
+[2026-04-16T18:05:16.510Z] LOGIN_FAILED: {"email":"secretaire.national@paide.cd","ip":"10.0.2.1"}
+[2026-04-16T18:05:16.521Z] LOGIN_FAILED: {"email":"secretaire.kinshasa@paide.cd","ip":"10.0.2.1"}
+[2026-04-16T18:05:16.530Z] LOGIN_FAILED: {"email":"ministre@paide.cd","ip":"10.0.2.1"}
+[2026-04-16T18:05:24.651Z] LOGIN_BLOCKED: {"email":"admin@paide.cd","ip":"10.0.2.1","reason":"rate_limit"}
+[2026-04-16T18:05:24.655Z] LOGIN_BLOCKED: {"email":"secretaire.ministre@paide.cd","ip":"10.0.2.1","reason":"rate_limit"}
+[2026-04-16T18:05:24.658Z] LOGIN_BLOCKED: {"email":"ministre@paide.cd","ip":"10.0.2.1","reason":"rate_limit"}
+[2026-04-16T18:08:38.887Z] LOGIN_FAILED: {"email":"admin@paide.cd","ip":"10.0.2.7"}
+[2026-04-16T18:08:40.912Z] LOGIN_FAILED: {"email":"admin@paide.cd","ip":"10.0.2.7"}
+[2026-04-16T18:10:00.781Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.7","level":"centre","post":"Secrétaire","device":"FP-ougdxb-mn"}
+[2026-04-16T18:10:59.943Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.7","level":"centre","post":"Secrétaire","device":"FP-ougdxb-mn"}
+[2026-04-16T19:59:13.260Z] LOGIN_SUCCESS: {"email":"g.ngola@paide.cd","ip":"10.0.2.7","level":"centre","post":"Secrétaire","device":"FP-ougdxb-mn"}
+[2026-04-16T20:01:17.597Z] LOGIN_SUCCESS: {"email":"admin@paide.cd","ip":"10.0.2.7","level":"superadmin","post":"Super Administrateur","device":"FP-ougdxb-mn"}
