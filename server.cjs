@@ -100,7 +100,8 @@ app.get('/health', (req, res) => res.json({ status: 'ok' }));
 app.use(express.static('dist'));
 
 // Base de données
-const db = new sqlite3('/app/data/app.db');
+const DB_PATH = process.env.DB_PATH || path.join(__dirname, 'data', 'app.db');
+const db = new sqlite3(DB_PATH);
 
 // DOC_SCOPE_MIGRATION_V1
 (function() {
