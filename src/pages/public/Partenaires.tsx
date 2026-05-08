@@ -188,7 +188,7 @@ export default function Partenaires() {
                           {partner.name}
                         </CardTitle>
                         <CardDescription>
-                          Partenaire {partner.type.toLowerCase()}
+                          Partenaire {(partner.type || 'institutionnel').toLowerCase()}
                         </CardDescription>
                       </CardHeader>
                       
